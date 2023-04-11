@@ -1,0 +1,63 @@
+.divAction {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 6vh;
+    border-color: lightgray;
+    border-style: solid;
+}
+
+.divFilter {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 30%;
+
+}
+
+.divOrder {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 30%;
+    border-style: solid;
+    border-color: lightgray;
+}
+
+.divSearch {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 29%;
+}
+
+.buttonFilter {
+    border-radius: 30%;
+    width: 30%;
+    height: 4vh;
+    border-color: lightg;
+    background-color: lightgray;
+    cursor: pointer;
+}
+
+.inputSarch {
+    border-radius: 10%;
+    background-color: lightgray;
+    width: 50%;
+}
+
+.buttonGo {
+    background-color: greenyellow;
+    width: 15%;
+    border-radius: 10%;
+    cursor: pointer;
+}
+
+.titleDisp {
+    background-color: white;
+}
+
+.select {
+    background-color: lightgray;
+    border-radius: 15%;
+}
